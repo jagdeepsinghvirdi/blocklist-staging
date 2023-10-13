@@ -1164,8 +1164,8 @@
       "enabled": true
     },
     {
-      "name": " ",
-      "category": " ",
+      "name": "BlockList for VL",
+      "category": "Cloud Storage & GC ",
       "url": ["https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/test_data/place_holder_for_dead_lists.txt"],
       "filterType": ["b-norm"],
       "source": "",
